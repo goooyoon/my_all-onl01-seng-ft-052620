@@ -7,4 +7,6 @@ while index < collection.length
 return = yield(collection[index])
 index += 1
 end
+
+return 
 end
