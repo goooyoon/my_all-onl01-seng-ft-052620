@@ -8,5 +8,6 @@ return = yield(collection[index])
 index += 1
 end
 
-return 
+return result
+
 end
